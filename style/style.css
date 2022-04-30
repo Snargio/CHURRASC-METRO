@@ -1,0 +1,31 @@
+.container{
+    background-image: url(../img/backg.PNG);
+    max-width: 300px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+h1{
+    color: aliceblue;
+    margin-top:0;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#resultado{
+    padding:10px;
+    margin-top: 10px;
+    border-radius: 25px;
+    background-color: rgb(41, 41, 41);
+  font-weight: 700;
+  color: aliceblue;
+}
